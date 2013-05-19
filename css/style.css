@@ -1,0 +1,117 @@
+#mainwrapper{width:100%; height:6000px; display:block; margin:0 auto;}
+
+#wrapbgandshade{width:100%; height:6000px; display:block; margin:0 auto;}
+#bgwrapper{width:100%; height:6000px; display:block; margin:0 auto;}
+#background{width:100%; height:6121px; background:url("../images/parallax_bg.jpg") repeat-x fixed; display:block; margin:0 auto;}
+#topshadewrapper{position:absolute; top:0px; width:100%; height:559px; display:block; margin:0 auto;}
+#topshade{position:relative; width:100%; height:227px; background:url("../images/toplayer.png") repeat-x; display:block; margin:0 auto;}
+#topshade2{position:relative; top:-62px; width:100%; height:169px; background:url("../images/toplayer2.png") repeat-x; display:block; margin:0 auto;}
+
+#wrapcenter{position:absolute;width:100%; top:0px; height:6121px;}
+#parallaxholder{position:relative; width:1350px; height:6121px; display:block; margin:0 auto;}
+#parallaxwrap{position:absolute; top:0px; width:1350px; display:block; margin:0 auto;}
+#boat{position:relative; width:112px; top:135px; height:50px; background:url("../images/boat.png") no-repeat; display:block; margin:0 auto;}
+
+#verticalstrip1{position:absolute; width:112px; top:175px; left:390px; height:930px; background:url("../images/wave-vertical-strip.png") no-repeat;}
+#verticalstrip2{position:absolute; width:112px; top:225px; left:1000px; height:1040px; background:url("../images/wave-vertical-strip2.png") no-repeat;}
+#verticalstrip3{position:absolute; width:112px; top:725px; left:695px; height:1040px; background:url("../images/wave-vertical-strip3.png") no-repeat;}
+#verticalstrip4{position:absolute; width:112px; top:1015px; left:187px; height:1040px; background:url("../images/wave-vertical-strip2.png") no-repeat;}
+#verticalstrip5{position:absolute; width:112px; top:5066px; left:695px; height:1040px; background:url("../images/wave-vertical-strip3.png") no-repeat;}
+#verticalstrip6{position:absolute; width:112px; top:3157px; left:695px; height:1040px; background:url("../images/wave-vertical-strip2.png") no-repeat;}
+#verticalstrip7{position:absolute; width:112px; top:2357px; left:1225px; height:1040px; background:url("../images/wave-vertical-strip3.png") no-repeat;}
+#verticalstrip8{position:absolute; width:112px; top:3357px; left:295px; height:1040px; background:url("../images/wave-vertical-strip2.png") no-repeat;}
+#verticalstrip9{position:absolute; width:112px; top:2657px; left:895px; height:1040px; background:url("../images/wave-vertical-strip3.png") no-repeat;}
+#verticalstrip10{position:absolute; width:112px; top:3357px; left:1100px; height:1040px; background:url("../images/wave-vertical-strip3.png") no-repeat;}
+#verticalstrip11{position:absolute; width:112px; top:4357px; left:375px; height:1040px; background:url("../images/wave-vertical-strip2.png") no-repeat;}
+#verticalstrip12{position:absolute; width:112px; top:4157px; left:970px; height:1040px; background:url("../images/wave-vertical-strip3.png") no-repeat;}
+
+#boldwavewrap{position:absolute; width:100%; top:0px; height:190px;}
+#boldwave1{position:absolute; width:100%; height:190px; top:600px; left:0px; background:url("../images/boldwave1.png") repeat-x; }
+#boldwave2{position:absolute; width:100%; height:190px; top:600px; left:0px; background:url("../images/boldwave2.png") repeat-x; }
+#boldwave3{position:absolute; width:100%; height:190px; top:600px; left:0px; background:url("../images/boldwave3.png") repeat-x; }
+#boldwave4{position:absolute; width:100%; height:190px; top:1800px; left:0px; background:url("../images/boldwave1.png") repeat-x; }
+#boldwave5{position:absolute; width:100%; height:190px; top:1800px; left:0px; background:url("../images/boldwave2.png") repeat-x; }
+#boldwave6{position:absolute; width:100%; height:190px; top:1800px; left:0px; background:url("../images/boldwave3.png") repeat-x; }
+#boldwave7{position:absolute; width:100%; height:190px; top:3000px; left:0px; background:url("../images/boldwave1.png") repeat-x; }
+#boldwave8{position:absolute; width:100%; height:190px; top:3000px; left:0px; background:url("../images/boldwave2.png") repeat-x; }
+#boldwave9{position:absolute; width:100%; height:190px; top:3000px; left:0px; background:url("../images/boldwave1.png") repeat-x; }
+#boldwave10{position:absolute; width:100%; height:190px; top:4200px; left:0px; background:url("../images/boldwave5.png") repeat-x; }
+#boldwave11{position:absolute; width:100%; height:190px; top:4200px; left:0px; background:url("../images/boldwave4.png") repeat-x; }
+#boldwave12{position:absolute; width:100%; height:190px; top:5400px; left:0px; background:url("../images/boldwave5.png") repeat-x; }
+#boldwave13{position:absolute; width:100%; height:190px; top:5400px; left:0px; background:url("../images/boldwave4.png") repeat-x; }
+
+
+#thinwave1{position:absolute; width:100%; height:190px; top:1200px; left:0px; background:url("../images/thinwave1.png") repeat-x;}
+#thinwave2{position:absolute; width:100%; height:190px; top:1220px; left:0px; background:url("../images/thinwave2.png") repeat-x;}
+#thinwave3{position:absolute; width:100%; height:190px; top:1240px; left:0px; background:url("../images/thinwave1.png") repeat-x;}
+#thinwave4{position:absolute; width:100%; height:190px; top:1260px; left:0px; background:url("../images/thinwave2.png") repeat-x;}
+#thinwave5{position:absolute; width:100%; height:190px; top:1280px; left:0px; background:url("../images/thinwave1.png") repeat-x;}
+#thinwave6{position:absolute; width:100%; height:190px; top:2340px; left:0px; background:url("../images/thinwave1.png") repeat-x;}
+#thinwave7{position:absolute; width:100%; height:190px; top:2360px; left:0px; background:url("../images/thinwave2.png") repeat-x;}
+#thinwave8{position:absolute; width:100%; height:190px; top:2380px; left:0px; background:url("../images/thinwave1.png") repeat-x;}
+#thinwave9{position:absolute; width:100%; height:190px; top:5900px; left:0px; background:url("../images/thinwave1.png") repeat-x;}
+#thinwave10{position:absolute; width:100%; height:190px; top:5920px; left:0px; background:url("../images/thinwave2.png") repeat-x;}
+#thinwave11{position:absolute; width:100%; height:190px; top:5940px; left:0px; background:url("../images/thinwave1.png") repeat-x;}
+
+.overlay{display:none; position: relative; top: -5px; left: -3px; width: 255px; height: 151px; cursor:pointer;}
+.imghld:hover .overlay{display:inline;}
+#thumb1{width:250px; height:190px; position: relative; top:225px; left: 313px;}
+#topholder1{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder1{width:250px; height:140px; background:url("../images/thumb1.png") no-repeat;}
+#thumb2{width: 250px; height: 190px; position: relative; top: 260px; left: 500px;}
+#topholder2{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder2{width:250px; height:140px; background:url("../images/thumb2.png") no-repeat;}
+#thumb3{width: 250px; height: 190px; position: relative; top:-191px; left:830px;}
+#topholder3{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder3{width:250px; height:140px; background:url("../images/thumb3.png") no-repeat;}
+#thumb4{width: 250px; height: 190px; position: relative; top: 234px; left: 300px;}
+#topholder4{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder4{width:250px; height:140px; background:url("../images/thumb4.png") no-repeat;}
+#thumb5{width: 250px; height: 190px; position: relative; top: 43px; left:587px;}
+#topholder5{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder5{width:250px; height:140px; background:url("../images/thumb5.png") no-repeat;}
+#thumb6{width: 250px; height: 190px; position: relative; top:-146px; left:874px;}
+#topholder6{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder6{width:250px; height:140px; background:url("../images/thumb6.png") no-repeat;}
+#thumb7{width: 250px; height: 190px; position: relative; top: 218px; left: 291px;}
+#topholder7{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder7{width:250px; height:140px; background:url("../images/thumb7.png") no-repeat;}
+#thumb8{width: 250px; height: 190px; position: relative; top: 268px;left: 459px;}
+#topholder8{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder8{width:250px; height:140px; background:url("../images/thumb8.png") no-repeat;}
+#thumb9{width: 250px; height: 190px; position: relative; top: -43px; left: 830px;}
+#topholder9{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder9{width:250px; height:140px; background:url("../images/thumb9.png") no-repeat;}
+#thumb10{width: 250px; height: 190px; position: relative; top: 195px; left: 920px;}
+#topholder10{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder10{width:250px; height:140px; background:url("../images/thumb10.png") no-repeat;}
+#thumb11{width: 250px; height: 190px; position: relative; top: 212px; left: 733px;}
+#topholder11{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder11{width:250px; height:140px; background:url("../images/thumb11.png") no-repeat;}
+#thumb12{width: 250px; height: 190px; position: relative; top: 230px; left: 568px;}
+#topholder12{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder12{width:250px; height:140px; background:url("../images/thumb12.png") no-repeat;}
+#thumb13{width: 250px; height: 190px; position: relative; top: 258px; left: 374px;}
+#topholder13{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder13{width:250px; height:140px; background:url("../images/thumb13.png") no-repeat;}
+#thumb14{width: 250px; height: 190px; position: relative; top: 634px; left: 568px;}
+#topholder14{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder14{width:250px; height:140px; background:url("../images/thumb14.png") no-repeat;}
+#thumb15{width: 250px; height: 190px; position: relative; top: 728px; left: 568px;}
+#topholder15{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder15{width:250px; height:140px; background:url("../images/thumb15.png") no-repeat;}
+#thumb16{width: 250px; height: 190px; position: relative; top: 834px; left: 568px;}
+#topholder16{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder16{width:250px; height:140px; background:url("../images/thumb16.png") no-repeat;}
+#thumb17{width: 250px; height: 190px; position: relative; top: 1251px; left: 817px;}
+#topholder17{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder17{width:250px; height:140px; background:url("../images/thumb17.png") no-repeat;}
+#thumb18{width: 250px; height: 190px; position: relative; top: 1374px; left: 308px}
+#topholder18{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder18{width:250px; height:140px; background:url("../images/thumb18.png") no-repeat;}
+#thumb19{width: 250px; height: 190px; position: relative; top: 1567px; left: 592px;}
+#topholder19{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder19{width:250px; height:140px; background:url("../images/thumb19.png") no-repeat;}
+#thumb20{width: 250px; height: 190px; position: relative; top: 1188px; left: 938px;}
+#topholder20{width:250px; height:50px; background:url("../images/songs_desc_bg.png") no-repeat; margin-left:10px;}
+#imageholder20{width:250px; height:140px; background:url("../images/thumb20.png") no-repeat;}
